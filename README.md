@@ -1,4 +1,4 @@
 ### Bálint Éliás
 
 - electrical engineering student @ BME
-- elias@balintelias.hu
+- you can contact me at elias [@] balintelias.hu
