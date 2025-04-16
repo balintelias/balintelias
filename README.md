@@ -1,5 +1,8 @@
 ### Bálint Éliás
 
-- electrical engineering BSc student @ BME
-- specialising in infocommunication systems, high frequency systems, and applications branch
+- graduated as an electrical engineer at BME
 - you can contact me at ebalint896 [@] gmail.hu
+
+Experience:
+- Teaching assistant @ BME, 2 years
+- SW engineer @ Arm, 1 year and counting
